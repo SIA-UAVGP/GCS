@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MISSION   Date="2010-10-16 11:51:23" TotalCnt="1">
+	<Item Name="T1" Oper="1" Desc="WLH" WaypointCnt="2" WaypointCnt="0">
+		<Waypoint XSpeed="3" YSpeed="3" ZSpeed="1" Alti="56" MarkName="1P" SyncID="4" StayTime="0"></Waypoint>
+		<Waypoint XSpeed="3" YSpeed="3" ZSpeed="1" Alti="56" MarkName="2P" SyncID="5" StayTime="0"></Waypoint>
+	</Item>
+
+</MISSION>

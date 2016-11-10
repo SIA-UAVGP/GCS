@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE AircraftItemCfg>
+<AircraftItemCfg version="1.0">
+
+<!-- 默认速度配置 -->
+	<SpeedCfg 
+	DefXSpeed="3" 
+	DefYSpeed="4"  
+	DefZSpeed="5" />
+
+<!-- 每个飞行器的具体参数配置 -->
+ 	<AircraftItem 
+	ID="1"
+	Name="No.1" 
+	FcsXChn="2" FcsXMin="-5"  FcsXMin="5" 
+	FcsYChn="3" FcsYMin="-1"  FcsYMin="1" 
+	RollChn ="4" RollMin="0"     RollMax="30"
+	AltiChn = "5" AltiMin="100" AltiMax="200"
+	PTZXChn="0" PTZXMin="1" PTZXMax="20"
+	PTZYChn="1"  PTZYMin="1" PTZYMax="15"
+	PTZZoomChn="6" PTZZoomMin="0"  PTZZoomMax="1"
+	/>
+	
+</AircraftItemCfg>
